@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    title: "Chocolate Cake",
+    description: "Choclate Flavour",
+    price: "1000",
+    img: "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlydGhkYXklMjBjYWtlc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+    quantity: 1,
+  },
+  {
+    id: 2,
+    title: "Wedding Cake",
+    description: "white in color",
+    price: "2000",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wedding_cake_with_pillar_supports%2C_2009.jpg/1200px-Wedding_cake_with_pillar_supports%2C_2009.jpg",
+    quantity: 1,
+  },
+  {
+    id: 3,
+    title: "The Ultimate Decadent Chocolate-and-Cream Layer Cake",
+    description: "black in color",
+    price: "1500",
+    img: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1542062283%2Fchocolate-and-cream-layer-cake-1812-cover.jpg%3Fitok%3DrEWL7AIN",
+    quantity: 1,
+  },
+  {
+    id: 4,
+    title: "Make Up Cake",
+    description: "Available in different color",
+    price: "1500",
+    img: "https://aclassictwist.com/wp-content/uploads/2016/05/Makeup-Cake-2-720x720.jpg",
+    quantity: 1,
+  },
+  {
+    id: 5,
+    title: "Peppa Pig Birthday Cake",
+    description: "Fun and festive kit kat Cake",
+    price: "2500",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEPZusuDI87WUkhap5EL9nr6fFkji-Pg2JA&usqp=CAU",
+    quantity: 1,
+  },
+];
